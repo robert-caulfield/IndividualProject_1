@@ -1,2 +1,3 @@
 # IndividualProject_1
  
+For my project I created four unique levels. Also in my project I added an additional functionality to the game which is objects that can be enabled and disabled using the spacebar. Objects that can be toggled are made blue by a custom script I made, and when toggled they have no collision and also change color and transparency. You can see this functionality in the second level in the video. In this video I also showcase a level that mimicks plinko.  I was unable to build this to WebGL. I did have the level menu working but it became corrupted after I tried to change some settings for webgl to work. I was unable to create scene references that referenced the correct scenes.
